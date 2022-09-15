@@ -1,4 +1,3 @@
 # Monthly Recycling and Waste Collection Statistics
 
-    #Projects Goal
-    
+    ##Projects Goal
