@@ -25,4 +25,4 @@ of a material of our choice) higher than 5 other materials (of our choice). Whic
 
 6. Which are the total quantities of recyclable materials per year?
 
-7. How much recycled ammount did each material have through these years of data?
+7. How much recycled ammount did each material have through these years?
