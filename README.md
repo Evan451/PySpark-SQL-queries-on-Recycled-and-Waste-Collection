@@ -6,8 +6,11 @@ The specific dataset is provided by the website:
 https://data.buffalony.gov/Quality-of-Life/Monthly-Recycling-and-Waste-Collection- Statistics/2cjd-uvx7
 
 Each line of the file corresponds to a different recyclable item, concerns a month of recording for the years 2011-2022 and has the following format:
-Date, Month, Type, Total (in tons)
-First we will implement a program in the Apache Spark environment, which will integrate the above data, and then answer the following combined queries:
+Date, Month, Type, Total (in tons).
+
+##PROJECTS GOAL
+
+Implement a program in the Apache Spark environment, which will integrate the above data, and then answer the following combined queries:
 
 1. What was the average amount of waste for each material type?
 
