@@ -1,7 +1,7 @@
 # Monthly Recycling and Waste Collection Statistics
 
 
-For this project, we will use a data set containing the information of the amount and type of waste collected for recycling in the city of Buffalo state of New York.
+For this project, we will use a dataset containing the information of the ammount and type of waste collected for recycling in the city of Buffalo at the state of New York.
 The specific dataset is provided by the website:
 [https://data.buffalony.gov/Quality-of-Life/Monthly-Recycling-and-Waste-Collection-Statistics/2cjd-uvx7
 
