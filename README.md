@@ -8,6 +8,8 @@ The specific dataset is provided by the website:
 Each line of the file corresponds to a different recyclable item, concerns a month of recording for the years 2011-2022 and has the following format:
 Date, Month, Type, Total (in tons).
 
+![Screenshot](https://github.com/Evan451/PySpark-SQL-queries-on-Recycled-and-Waste-Collection/blob/main/PICS/Screenshot%202022-09-18%20at%203.56.38%20PM.png)
+
 ## PROJECTS GOAL
 
 Implement a program in the Apache Spark environment, which will integrate the above data, and then answer the following combined queries:
