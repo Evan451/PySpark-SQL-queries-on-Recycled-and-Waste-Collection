@@ -28,3 +28,7 @@ of a material of our choice) higher than 5 other materials (of our choice). Whic
 6. Which are the total quantities of recyclable materials per year?
 
 7. How much recycled ammount did each material have through these years?
+
+## BUILD WITH:
+
+![Screenshot] (https://github.com/Evan451/PySpark-SQL-queries-on-Recycled-and-Waste-Collection/blob/main/PICS/Screenshot%202022-09-18%20at%204.24.25%20PM.png)
