@@ -3,7 +3,7 @@
 
 For this project, we will use a data set containing the information of the amount and type of waste collected for recycling in the city of Buffalo state of New York.
 The specific dataset is provided by the website:
-[https://data.buffalony.gov/Quality-of-Life/Monthly-Recycling-and-Waste-Collection- Statistics/2cjd-uvx7]
+[https://data.buffalony.gov/Quality-of-Life/Monthly-Recycling-and-Waste-Collection-Statistics/2cjd-uvx7
 
 Each line of the file corresponds to a different recyclable item, concerns a month of recording for the years 2011-2022 and has the following format:
 Date, Month, Type, Total (in tons).
