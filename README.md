@@ -10,7 +10,7 @@ Date, Month, Type, Total (in tons).
 
 ![Screenshot](https://github.com/Evan451/PySpark-SQL-queries-on-Recycled-and-Waste-Collection/blob/main/PICS/Screenshot%202022-09-18%20at%203.56.38%20PM.png)
 
-## PROJECTS GOAL
+## Projects Goal:
 
 Implement a program in the Apache Spark environment, which will integrate the above data, and then answer the following combined queries:
 
@@ -29,10 +29,10 @@ of a material of our choice) higher than 5 other materials (of our choice). Whic
 
 7. How much recycled ammount did each material have through these years?
 
-## BUILD WITH:
+## Build with:
 
 ![Screenshot](https://github.com/Evan451/PySpark-SQL-queries-on-Recycled-and-Waste-Collection/blob/main/PICS/Screenshot%202022-09-18%20at%204.24.25%20PM.png)
 
 
-## CONTACT:
+## Contact:
 Feel free to contact me on vagelis451@gmail.com
