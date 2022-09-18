@@ -8,7 +8,7 @@ https://data.buffalony.gov/Quality-of-Life/Monthly-Recycling-and-Waste-Collectio
 Each line of the file corresponds to a different recyclable item, concerns a month of recording for the years 2011-2022 and has the following format:
 Date, Month, Type, Total (in tons).
 
-##PROJECTS GOAL
+## PROJECTS GOAL
 
 Implement a program in the Apache Spark environment, which will integrate the above data, and then answer the following combined queries:
 
